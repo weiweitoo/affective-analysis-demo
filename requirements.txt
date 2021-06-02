@@ -80,7 +80,7 @@ termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
 tf-hub-nightly==0.8.0.dev202002130005
 tqdm==4.42.1
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.3
 virtualenv-clone==0.5.3
 Werkzeug==1.0.0
